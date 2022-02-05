@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+Code Climate Maintainability Badge: <a href="https://codeclimate.com/github/bjc-teacher-tracker-spring22/bjc-teacher-tracker/maintainability"><img src="https://api.codeclimate.com/v1/badges/07a1038715ab7e191b9d/maintainability" /></a>
