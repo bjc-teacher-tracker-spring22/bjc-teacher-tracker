@@ -3,7 +3,7 @@ project:
   owner: 'CS169L-22'
   teamId: 'BJC Teacher Tracker'
   identities:
-    pivotal: 'url'
+    pivotal: 'https://www.pivotaltracker.com/n/projects/2553040'
     heroku: 'bjc-teacher-tracker-2022'
   members:
     member:
