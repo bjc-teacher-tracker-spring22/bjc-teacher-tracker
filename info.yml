@@ -1,0 +1,33 @@
+project:
+  name: 'q2q'
+  owner: 'CS169L-22'
+  teamId: 'BJC Teacher Tracker'
+  identities:
+    pivotal: 'url'
+    heroku: 'bjc-teacher-tracker-2022'
+  members:
+    member:
+      name: 'Steve'
+      surname: 'Jixuan Gao' 
+      githubUsername: 'stevejxgao'
+    member:
+      name: 'Haojie Zhou'
+      surname: 'Haojie Zhou' 
+      githubUsername: 'haojie626'
+    member:
+      name: 'Mitchell Wong'
+      surname: 'Mitchell Wong' 
+      githubUsername: 'mitchell2001wong'
+    member:
+      name: 'Anke Shao'
+      surname: 'Anke Shao' 
+      githubUsername: 'anke-s'
+    member:
+      name: 'Eric Xiang'
+      surname: 'Eric Xiang' 
+      githubUsername: 'ericxiang400'
+    member:
+      name: 'Carlos Reyes'
+      surname: 'Carlos Reyes' 
+      githubUsername: 'crkntk'
+    
