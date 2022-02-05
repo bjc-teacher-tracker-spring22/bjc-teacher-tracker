@@ -3,31 +3,14 @@ project:
   owner: 'CS169L-22'
   teamId: 'BJC Teacher Tracker'
   identities:
-    pivotal: 'https://www.pivotaltracker.com/n/projects/2553040'
-    heroku: 'bjc-teacher-tracker-2022'
+    pivotal: 
+      url: 'https://www.pivotaltracker.com/n/projects/2553040'
+    heroku: 
+      url: 'https://bjc-teacher-tracker-2022.herokuapp.com/'
   members:
-    member:
-      name: 'Steve'
-      surname: 'Jixuan Gao' 
-      githubUsername: 'stevejxgao'
-    member:
-      name: 'Haojie Zhou'
-      surname: 'Haojie Zhou' 
-      githubUsername: 'haojie626'
-    member:
+    member1:
       name: 'Mitchell Wong'
       surname: 'Mitchell Wong' 
       githubUsername: 'mitchell2001wong'
-    member:
-      name: 'Anke Shao'
-      surname: 'Anke Shao' 
-      githubUsername: 'anke-s'
-    member:
-      name: 'Eric Xiang'
-      surname: 'Eric Xiang' 
-      githubUsername: 'ericxiang400'
-    member:
-      name: 'Carlos Reyes'
-      surname: 'Carlos Reyes' 
-      githubUsername: 'crkntk'
-    
+      pivotalUsername: 'mitchell2001wong'
+      herokuEmail: 'mitchell2001wong@gmail.com'
