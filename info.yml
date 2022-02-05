@@ -7,6 +7,12 @@ project:
     heroku: 'https://bjc-teacher-tracker-2022.herokuapp.com/'
   members:
     member1:
+      name: 'Governify'
+      surname: 'Auditor' 
+      githubUsername: 'governifyauditor'
+      pivotalUsername: 'governifyauditor'
+      herokuEmail: 'governify.auditor@gmail.com'
+    member2:
       name: 'Mitchell Wong'
       surname: 'Mitchell Wong' 
       githubUsername: 'mitchell2001wong'
