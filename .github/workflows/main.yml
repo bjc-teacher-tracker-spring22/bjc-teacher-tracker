@@ -11,6 +11,7 @@ jobs:
       uses: actions/setup-ruby@v1
       with:
         ruby-version: 2.7.1
+        bundler-cache: true
     - name: Build and test with RSpec
       run: |
         gem install bundler
