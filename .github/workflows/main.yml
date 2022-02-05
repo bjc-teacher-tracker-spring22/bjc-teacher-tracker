@@ -10,8 +10,7 @@ jobs:
     - name: Install Ruby (2.7)
       uses: actions/setup-ruby@v1
       with:
-        ruby-version: 2.7.1
-        bundler-cache: true
+        ruby-version: 2.7.0
     - name: Build and test with RSpec
       run: |
         gem install bundler
